@@ -7,9 +7,9 @@
 
 <p align="left">My twitter <a href="https://twitter.com/https://x.com/sourav74437165" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/sourav74437165?logo=twitter&style=for-the-badge" alt="https://x.com/sourav74437165" /></a> </p>
 
-- 🔭 I’m currently working on **Spotify clone**
+- 🔭 I’m currently working on my **Portfolio**
 
-- 🌱 I’m currently learning **Advanced Javascript and Node.Js**
+- 🌱 I’m currently learning **Reactand Node.Js**
 
 - 💬 Ask me about **C, HTML, PYTHON, CSS, AND JAVASCRIPT**
 
