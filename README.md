@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my **Portfolio**
 
-- 🌱 I’m currently learning **Reactand Node.Js**
+- 🌱 I’m currently learning **React and Node.Js**
 
 - 💬 Ask me about **C, HTML, PYTHON, CSS, AND JAVASCRIPT**
 
